@@ -32,6 +32,20 @@ export default function InfrastructurePage() {
         gradientTo="to-gray-900"
       />
 
+      {/* 대표 이미지 */}
+      <section className="py-8 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="rounded-xl overflow-hidden mb-4">
+            <img
+              src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800"
+              alt="교통 인프라"
+              className="w-full h-48 object-cover"
+            />
+            <p className="text-xs text-gray-500 mt-2 text-center">교통 인프라 이미지 | 출처: Unsplash</p>
+          </div>
+        </div>
+      </section>
+
       {/* 4.1 교통 및 접근성 */}
       <Section title="4.1 교통 및 접근성 혁신" subtitle="'말티재 커넥션(Maltijae Connection)'">
         <motion.div

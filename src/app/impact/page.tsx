@@ -30,6 +30,20 @@ export default function ImpactPage() {
         gradientTo="to-gray-900"
       />
 
+      {/* 대표 이미지 */}
+      <section className="py-8 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="rounded-xl overflow-hidden mb-4">
+            <img
+              src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800"
+              alt="데이터 분석 성장"
+              className="w-full h-48 object-cover"
+            />
+            <p className="text-xs text-gray-500 mt-2 text-center">경제효과 분석 | 출처: Unsplash</p>
+          </div>
+        </div>
+      </section>
+
       {/* 핵심 숫자 */}
       <section className="py-12 px-4 bg-gray-800/50">
         <div className="max-w-5xl mx-auto">

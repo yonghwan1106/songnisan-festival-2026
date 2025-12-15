@@ -27,6 +27,20 @@ export default function FeasibilityPage() {
         gradientTo="to-gray-900"
       />
 
+      {/* 대표 이미지 */}
+      <section className="py-8 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="rounded-xl overflow-hidden mb-4">
+            <img
+              src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800"
+              alt="예산 계획"
+              className="w-full h-48 object-cover"
+            />
+            <p className="text-xs text-gray-500 mt-2 text-center">예산 및 실현가능성 분석 | 출처: Unsplash</p>
+          </div>
+        </div>
+      </section>
+
       {/* 예산 총괄 */}
       <section className="py-8 px-4 bg-gray-800/50">
         <div className="max-w-5xl mx-auto">

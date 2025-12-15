@@ -28,6 +28,20 @@ export default function MarketingPage() {
         gradientTo="to-gray-900"
       />
 
+      {/* 대표 이미지 */}
+      <section className="py-8 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="rounded-xl overflow-hidden mb-4">
+            <img
+              src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800"
+              alt="소셜미디어 마케팅"
+              className="w-full h-48 object-cover"
+            />
+            <p className="text-xs text-gray-500 mt-2 text-center">SNS 마케팅 전략 | 출처: Unsplash</p>
+          </div>
+        </div>
+      </section>
+
       {/* 6.1 타겟 고객 세분화 */}
       <Section title="6.1 타겟 고객 세분화">
         <motion.div
