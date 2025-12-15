@@ -24,8 +24,8 @@ export default function Home() {
         {/* 배경 이미지 */}
         <div className="absolute inset-0 opacity-30">
           <img
-            src="https://images.unsplash.com/photo-1575391304128-f11964816ef6?w=1600"
-            alt="속리산 가을 풍경"
+            src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1600"
+            alt="산악 풍경"
             className="w-full h-full object-cover"
           />
         </div>
