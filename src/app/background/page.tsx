@@ -27,7 +27,7 @@ export default function BackgroundPage() {
       />
 
       {/* 1.1 연구의 배경 및 목적 */}
-      <Section title="1.1 연구의 배경 및 목적" subtitle="계절성 극복의 필연성">
+      <Section title="1.1 제안의 배경 및 목적" subtitle="계절성 극복의 필연성">
         <div className="grid md:grid-cols-2 gap-8 mb-12">
           {/* 현재 상황 */}
           <motion.div
