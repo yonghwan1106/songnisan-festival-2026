@@ -142,7 +142,7 @@ export default function BackgroundPage() {
           </div>
           <div className="rounded-xl overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1623850227582-d0e3ac68be8d?w=800"
+              src="https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800"
               alt="불상"
               className="w-full h-48 object-cover"
             />
