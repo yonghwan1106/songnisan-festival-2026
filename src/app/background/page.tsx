@@ -134,19 +134,19 @@ export default function BackgroundPage() {
         >
           <div className="rounded-xl overflow-hidden">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Korea-Boeun-Beopjusa_Palsangjeon_1764-06.JPG/800px-Korea-Boeun-Beopjusa_Palsangjeon_1764-06.JPG"
-              alt="법주사 팔상전 (국보 제55호)"
+              src="https://images.unsplash.com/photo-1548115184-bc6544d06a58?w=800"
+              alt="한국 전통 사찰 목탑"
               className="w-full h-48 object-cover"
             />
-            <p className="text-xs text-gray-500 mt-2 text-center">법주사 팔상전 - 국내 유일의 목탑 (국보 제55호) | 출처: Wikimedia Commons</p>
+            <p className="text-xs text-gray-500 mt-2 text-center">한국 전통 사찰 (법주사 팔상전 컨셉) | 출처: Unsplash</p>
           </div>
           <div className="rounded-xl overflow-hidden">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Korea-Beoun-Beopjusa_Golden_Maitreya_Statue_1752-06.JPG/800px-Korea-Beoun-Beopjusa_Golden_Maitreya_Statue_1752-06.JPG"
-              alt="법주사 금동미륵대불"
+              src="https://images.unsplash.com/photo-1623850227582-d0e3ac68be8d?w=800"
+              alt="불상"
               className="w-full h-48 object-cover"
             />
-            <p className="text-xs text-gray-500 mt-2 text-center">법주사 금동미륵대불 (33m) | 출처: Wikimedia Commons</p>
+            <p className="text-xs text-gray-500 mt-2 text-center">불상 (법주사 금동미륵대불 컨셉) | 출처: Unsplash</p>
           </div>
         </motion.div>
       </Section>
