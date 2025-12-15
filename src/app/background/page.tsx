@@ -134,7 +134,7 @@ export default function BackgroundPage() {
         >
           <div className="rounded-xl overflow-hidden">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Palsangjeon_at_Beopjusa_%EB%B2%95%EC%A3%BC%EC%82%AC_%ED%8C%94%EC%83%81%EC%A0%84_%E6%B3%95%E4%BD%8F%E5%AF%BA_%E6%8D%8C%E7%9B%B8%E6%AE%BF_%285341676993%29.jpg/800px-Palsangjeon_at_Beopjusa_%EB%B2%95%EC%A3%BC%EC%82%AC_%ED%8C%94%EC%83%81%EC%A0%84_%E6%B3%95%E4%BD%8F%E5%AF%BA_%E6%8D%8C%E7%9B%B8%E6%AE%BF_%285341676993%29.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Korea-Boeun-Beopjusa_Palsangjeon_1764-06.JPG/800px-Korea-Boeun-Beopjusa_Palsangjeon_1764-06.JPG"
               alt="법주사 팔상전 (국보 제55호)"
               className="w-full h-48 object-cover"
             />
@@ -142,7 +142,7 @@ export default function BackgroundPage() {
           </div>
           <div className="rounded-xl overflow-hidden">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maitreya_at_Beopjusa_%EB%B2%95%EC%A3%BC%EC%82%AC_%EB%AF%B8%EB%A5%B5%EB%B6%88_%E6%B3%95%E4%BD%8F%E5%AF%BA_%285341677343%29.jpg/800px-Maitreya_at_Beopjusa_%EB%B2%95%EC%A3%BC%EC%82%AC_%EB%AF%B8%EB%A5%B5%EB%B6%88_%E6%B3%95%E4%BD%8F%E5%AF%BA_%285341677343%29.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Korea-Beoun-Beopjusa_Golden_Maitreya_Statue_1752-06.JPG/800px-Korea-Beoun-Beopjusa_Golden_Maitreya_Statue_1752-06.JPG"
               alt="법주사 금동미륵대불"
               className="w-full h-48 object-cover"
             />
